@@ -1,0 +1,6 @@
+{
+    "name": "juste/backend",
+    "description": "php api",
+    "type": "project",
+    "require": {}
+}
