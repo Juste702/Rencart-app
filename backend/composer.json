@@ -2,5 +2,7 @@
     "name": "juste/backend",
     "description": "php api",
     "type": "project",
-    "require": {}
+    "require": {
+        "symfony/http-foundation": "^7.3"
+    }
 }
