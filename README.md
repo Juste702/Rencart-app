@@ -88,7 +88,7 @@ Gérer les clients
 
 1️1-  Cloner le repo
 
-git clone https://github.com/votre-repo/rentcar-app.git
+git clone https://github.com/Juste702/Rencart-app.git
 
 2️2- Installer le frontend
 
