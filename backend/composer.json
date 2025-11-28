@@ -1,8 +1,20 @@
 {
-    "name": "juste/backend",
-    "description": "php api",
+    "name": "creativecode/rentcar-backend",
+    "description": "Backend for RentCar application",
     "type": "project",
     "require": {
-        "symfony/http-foundation": "^7.3"
-    }
+        "php": "^8.0",
+        "firebase/php-jwt": "^6.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "RentCar\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Creative Code Team",
+            "email": "dev@creativecode.com"
+        }
+    ]
 }
